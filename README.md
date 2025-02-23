@@ -48,29 +48,10 @@ Before running the project, ensure you have:
 ✅ Python 3.8+ installed  
 ✅ An OpenAI API key (for GPT models)  
 
-### 🔹 Installation Steps  
-1️⃣ **Clone the repository**  
 
-git clone https://github.com/your-username/AI-YouTube-Chatbot.git
-cd AI-YouTube-Chatbot
-
-2️⃣ Install dependencies
-
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Run Jupyter Notebook
-
-Copy
-Edit
-jupyter notebook final_project.ipynb
-4️⃣ Launch the chatbot UI
-
-Copy
-Edit
-python app.py 
 
 Gradio Interface
+
 ![image](https://github.com/user-attachments/assets/8a8ea5ee-2563-46c5-8863-e7acc6c00add)
 
 Conclusion
